@@ -1,1 +1,1 @@
-My first readme now
+echo "My first readme"
